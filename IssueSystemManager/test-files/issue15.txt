@@ -1,0 +1,6 @@
+*4,Verifying,Enhancement,Issue description,owner,true,Fixed,
+-[New] Note 1
+-[Confirmed - this isn't possible!] Note 2
+that goes on a new line
+-[Working] Note 3
+-[Verifying] Note 4

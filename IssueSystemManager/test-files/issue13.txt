@@ -1,0 +1,5 @@
+*4,Verifying,Enhancement,Issue description,owner,false,Duplicate
+-[New] Note 1
+-[Working] Note 2
+that goes on a new line
+-[Verifying with invalid resolution type] Note 3

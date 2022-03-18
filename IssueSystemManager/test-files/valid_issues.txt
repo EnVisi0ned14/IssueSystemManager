@@ -1,0 +1,24 @@
+*1,New,Enhancement,Issue description,,false,
+-[New] Note 1
+*2,New,Bug,Issue description,,false,
+-[New] Note 1
+*4,Closed,Enhancement,Issue description,,false,WontFix
+-[New] Note 1
+-[Closed] Note 2
+*7,Verifying,Bug,Issue description,owner,true,Fixed
+-[New] Note 1
+-[Confirmed] Note 2
+-[Working] Note 3
+-[Verifying] Note 4
+*15,Verifying,Enhancement,Issue description,owner,false,Fixed
+-[New] Note 1
+extra line
+-[Working] Note 2
+-[Verifying] Note 3
+*21,Confirmed,Bug,Issue description,,true,
+-[New] Note 1
+-[Confirmed] Note 2
+*25,Closed,Bug,Issue description,,true,WontFix
+-[New] Note 1
+-[Confirmed] Note 2
+-[Closed] Note 3

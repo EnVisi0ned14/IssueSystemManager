@@ -1,0 +1,5 @@
+*1,Verifying,Bug,Issue description,owner2,true,Fixed
+-[New] note 1
+-[Confirmed] note 2
+-[Working] note 3
+-[Verifying] note 4

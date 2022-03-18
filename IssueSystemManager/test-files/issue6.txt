@@ -1,0 +1,7 @@
+*6,Closed,Enhancement,,owner,false,WontFix
+-[New] Note 1
+that goes on a new line
+-[Working] Note 2
+-[Verified] Note 3
+-[Working] Note 4
+-[Closed] Note 5

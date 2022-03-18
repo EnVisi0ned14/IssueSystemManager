@@ -1,0 +1,4 @@
+*3,,Bug,Issue description,owner,true,
+-[New] Note 1
+-[States don't matter here] Note 2
+-[When the whole issue is broken] Note 3

@@ -1,0 +1,4 @@
+*3,Working,Bug,Issue description,owner,false,
+-[New] Note 1
+-[Confirmed] Note 2
+-[Working bugs should be confirmed] Note 3

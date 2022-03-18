@@ -1,0 +1,5 @@
+edu.ncsu.csc216.issue_manager.model.command
+edu.ncsu.csc216.issue_manager.model.io
+edu.ncsu.csc216.issue_manager.model.issue
+edu.ncsu.csc216.issue_manager.model.manager
+edu.ncsu.csc216.issue_manager.view.ui

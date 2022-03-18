@@ -1,0 +1,3 @@
+*5,Confirmed,Bug,Issue description,null,true,
+-[New] note 1
+-[Confirmed] note 2
